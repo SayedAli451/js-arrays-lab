@@ -57,16 +57,3 @@ console.log('  fizzbuzz:', fizzbuzz);
 console.log('Exercise 13 result:', numList);
 console.log('Exercise 14 result:', num);
 console.log('Exercise 15 result:\n', total);
-
-
-
-
-
-
-
-
-
-
-
-console.log('Exercise 13 result:', num);
-console.log('Exercise 15 result:\n', total);
